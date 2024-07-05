@@ -1,1 +1,6 @@
-Egor/Natalya/kseniya/Alexnder/Elizaveta/Juliya
+kseniya
+Natalya
+Juliya
+Elizaveta
+Egor
+Alexnder
